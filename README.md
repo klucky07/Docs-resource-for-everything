@@ -1,18 +1,11 @@
 
 # Docs and Resources for everything
 
- This file contains documentation links for different topic.
+ This file contains documentation/resources links for different topic.
 
 # Contribute  
 
  Add more docs and resources 
-
-# Contents
-- [Programming language](#programming-language)
-- [Web Development](#web-development)
-- [DevOps](#devops)
-- [Android Development](#android-development)
-
 
  ## Programming language
  - [Java(oracle)](https://docs.oracle.com/javase/8/)
@@ -28,7 +21,7 @@
  - [Typescipt](https://www.typescriptlang.org/docs/) 
  - [Perl](https://perldoc.perl.org/) 
 
-## 🌐 Web development
+# 🌐 Web development
 
 Direct links to official documentation for commonly used frontend and backend technologies.
 
