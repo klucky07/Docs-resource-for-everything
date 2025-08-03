@@ -28,7 +28,7 @@
  - [Typescipt](https://www.typescriptlang.org/docs/) 
  - [Perl](https://perldoc.perl.org/) 
 
-# 🌐 Web development
+## 🌐 Web development
 
 Direct links to official documentation for commonly used frontend and backend technologies.
 
@@ -183,7 +183,7 @@ Direct links to official documentation for commonly used frontend and backend te
 - [CSRF (OWASP)](https://owasp.org/www-community/attacks/csrf)
 
 ---
-# ⚙️ DevOps
+## ⚙️ DevOps
 
 This document provides direct links to official documentation for key tools and platforms used in modern **DevOps** workflows.
 
